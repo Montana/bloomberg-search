@@ -1,4 +1,4 @@
-Bloomberg Security Search
+Bloomberg Search
 =======================
 
 This is a wrapper around the Java implementation of the Bloomberg API (http://www.bloomberglabs.com/api/about/).
@@ -57,3 +57,5 @@ Objects returned can be an error or a response which contains an array with obje
 Libraries used:
 
 `Bloomberg API Java`: http://www.bloomberglabs.com/api/libraries/ (3.9)
+
+Completed by <a href="http://www.montanamendy.com">Montana Mendy</a>.
