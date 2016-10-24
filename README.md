@@ -1,3 +1,5 @@
+<img src="http://www.montanamendy.com/bloomberg.png">
+
 Bloomberg Search
 =======================
 
@@ -7,8 +9,6 @@ This wrapper acts as a server and is able to receive multiple connections from m
 This is only a prototype of an older version with updated code. This is also referred to in the <a href="https://github.com/bloomberg/chef-bcpc">Chef Bloomberg Recipes</a>.
 
 Being written by <a href="http://www.montanamendy.com">Montana Mendy</a>.
-
-<img src="http://www.montanamendy.com/bloomberg.png">
 
 ```
 JSON Object accepted:
