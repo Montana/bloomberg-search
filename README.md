@@ -1,7 +1,7 @@
 Bloomberg Search
 =======================
 
-This is a wrapper around the Java implementation of the Bloomberg API (http://www.bloomberglabs.com/api/about/).
+I would usually make this a private repo, but I want to keep this open. This is a wrapper around the Java implementation of the Bloomberg API (http://www.bloomberglabs.com/api/about/).
 This wrapper acts as a server and is able to receive multiple connections from multiple client implementations.
 This is only a prototype of an older version with updated code. I consider this the finished version.
 
