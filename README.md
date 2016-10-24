@@ -8,6 +8,8 @@ This is only a prototype of an older version with updated code. This is also ref
 
 Being written by <a href="http://www.montanamendy.com">Montana Mendy</a>.
 
+<img src="http://www.montanamendy.com/bloomberg.png">
+
 ```
 JSON Object accepted:
 {
