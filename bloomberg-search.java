@@ -21,6 +21,13 @@ public class SecuritySearchServer extends Thread {
 	private int d_port = SecuritySearchApiConnection.DEFAULT_PORT;
 	private int d_listenPort = 13377;
 	private ServerSocket d_serverSocket = null;
+	
+	private class LoadableSource {
+        public final String delivery;
+        public final LocalDate date;
+        public final String content;
+        public final Map<String, Map<String, SortedMap<LocalDate, String>>> expected;
+        private boolean exhaustive;
 
 	private void setPort(String newPort)
 	{
