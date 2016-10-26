@@ -1,3 +1,5 @@
+"use strict";
+
 package com.bloomberglp.blpapi.securitysearch;
 
 import java.util.List;
