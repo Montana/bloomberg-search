@@ -14,6 +14,18 @@ import com.bloomberglp.blpapi.Service;
 import com.bloomberglp.blpapi.Session;
 import general.Tools;
 
+
+	private double earnings;
+	private int numOfShares;
+	private double dividentRatio;
+	private double initialPrice;
+	private double marketValuePerShare;
+	private double volatility;
+	private String ticker;	
+	private double netWorth;
+	private int quantity;
+	private int counter;
+
 public class SecuritySearchServer extends Thread {
 
 	private volatile boolean d_exit = false;
