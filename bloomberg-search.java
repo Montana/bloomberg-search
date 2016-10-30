@@ -29,7 +29,7 @@ import general.Tools;
 public class SecuritySearchServer extends Thread {
 
 	private volatile boolean d_exit = false;
-	private String d_host = SecuritySearchApiConnection.DEFAULT_HOST;
+	private string d_host = SecuritySearchApiConnection.DEFAULT_HOST;
 	private int d_port = SecuritySearchApiConnection.DEFAULT_PORT;
 	private int d_listenPort = 13377;
 	private ServerSocket d_serverSocket = null;
