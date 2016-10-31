@@ -117,6 +117,8 @@ public class SecuritySearchServer extends Thread {
 			else if(parameter.compareTo("-h") == 0)
 			{
 				setHost(newValue);
+				
+				setPort(newValue); 
 			}
 		}
 	}
