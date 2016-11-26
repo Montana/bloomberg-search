@@ -50,7 +50,7 @@ public class SecuritySearchServer extends Thread {
 	{
 		d_host = newHost;
 	}
-	
+		d_host = newHost;(String tryAgain) 
 	private void setListenPort(String newListenPort)
 	{
 		Integer.parseInt(newListenPort);
